@@ -1,0 +1,99 @@
+:root
+
+
+
+ul{
+    list-style: none;
+}
+
+
+/* Колір фона Хедера */
+
+.header-phone{
+    background-color:#FFFFFF; ;
+}
+
+/* Кольори Хедера  */
+
+
+/* Синій */
+.logo{
+    color: #2196F3;;
+}
+
+
+/* Чорний */
+.header-nav a{
+    color: #212121;;
+}
+
+.header-nav a:hover, 
+.header-nav a:focus {
+    color: #2196F3;
+}
+
+/* Сірий */
+.header-nav-mail{
+    color:#757575;
+}
+
+.header-nav-mail:hover,
+.header-nav-mail:focus {
+    color: #2196F3;
+}
+
+
+
+.header-nav-tel{
+    color:#757575
+}
+
+.header-nav-tel:hover,
+.header-nav-tel:focus {
+    color: #2196F3;
+}
+
+
+
+
+
+
+
+
+/* Основний колір(Чорний) */
+
+.section-title{
+    color: #212121;
+}
+
+.title-text{
+    color: #212121;
+}
+
+.subtitle-text{
+    color: #757575;
+}
+
+.title-name{
+    color: #212121;
+}
+
+
+
+/* Вторинний колір */
+
+.section-phone-with-a-button{
+    background-color: #2F303A;;
+}
+
+.section-phone-our-team{
+    background-color: #F5F4FA;
+}
+
+.section-title-with-a-button{
+    color:#FFFFFF;;
+}
+
+.subtitle-specialty{
+    color: #757575;
+}
